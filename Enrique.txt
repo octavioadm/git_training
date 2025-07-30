@@ -6,3 +6,6 @@ Estamos en clase de GIT
 Taller Febrero 2025
 
 Ahora estoy probando visual studio
+
+
+Lo modifique
